@@ -6,15 +6,20 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Em uma situação em que está chovendo um.grande volume a falta de áreas para drenagem pode atrapalha 
+",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "afirmação"
+                texto: "Desimpermeabilizar áreas urbanas, substituindo concreto por materiais permeáveis em calçadas e estacionamentos.
+",
+                afirmacao: "Essa medida foi escolhida porque materiais permeáveis permitem que a água da chuva infiltre no solo, reduzindo alagamentos causados pelo excesso de concreto
+"
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "afirmação"
+                texto: "Criar áreas verdes urbanas que aumentem a absorção da água da chuva e reduzam o impacto das chuvas intensas.
+",
+                afirmacao: "Essa solução ajuda na absorção da água da chuva, diminuindo o risco de enchentes e melhorando o ambiente urbano.
+"
             }
         ]
     },
