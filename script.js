@@ -8,8 +8,8 @@ const perguntas = [
     {
         enunciado: "Como promover a educação ambiental a conscientização comunitária despertando o senso coletivo e incentivando a participação dos moradores na preservação do meio ambiente local?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Promover oficinas, campanhas e mutirões ambientais, envolvendo a comunidade em ações práticas de reciclagem e preservação.",
+            "Formar comitês ambientais e usar comunicação acessível para planejar ações e incentivar a participação da comunidade."
         ]
     },
     {
