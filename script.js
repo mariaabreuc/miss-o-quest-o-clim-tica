@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Como promover a educação ambiental a conscientização comunitária despertando o senso coletivo e incentivando a participação dos moradores na preservação do meio ambiente local?",
         alternativas: [
             "Alternativa 1",
             "Alternativa 2"
