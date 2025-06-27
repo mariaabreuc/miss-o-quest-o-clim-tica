@@ -4,8 +4,7 @@ const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
-const perguntas = 
-[
+const perguntas = [
     {
         enunciado: "Como promover a educação ambiental a conscientização comunitária despertando o senso coletivo e incentivando a participação dos moradores na preservação do meio ambiente local?",
         alternativas: [
@@ -41,4 +40,4 @@ const perguntas =
             "Alternativa 2"
         ]
     }
-    ;
+];
