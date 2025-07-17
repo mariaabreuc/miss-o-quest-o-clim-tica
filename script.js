@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Sem ação, sem futuro...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
