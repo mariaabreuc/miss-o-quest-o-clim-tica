@@ -45,15 +45,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Como promover a educação ambiental e a conscientização comunitária de forma efetiva, despertando o senso de responsabilidade coletiva e incentivando a participação ativa dos moradores na preservação do meio ambiente local?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                texto: "Promover oficinas, campanhas e mutirões ambientais, envolvendo a comunidade em ações práticas de reciclagem e preservação.",
+                afirmacao: "A participação prática em atividades ambientais aumenta a conscientização e o compromisso da comunidade com a preservação do meio ambiente."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                texto: "Formar comitês ambientais e usar comunicação acessível para planejar ações e incentivar a participação da comunidade.",
+                afirmacao: "A organização comunitária e a comunicação acessível são essenciais para promover a educação ambiental e mobilizar a população local."
             }
         ]
     },
