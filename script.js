@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Em uma situação em que está chovendo um.grande volume a falta de áreas para drenagem pode atrapalha",
+        enunciado: "Em uma situação em que está chovendo um grande volume a falta de áreas para drenagem pode atrapalha",
         alternativas: [
             {
                 texto: "Desimpermeabilizar áreas urbanas, substituindo concreto por materiais permeáveis em calçadas e estacionamentos.",
@@ -19,28 +19,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Se ouvesse uma interrupção de energia durante uma chuva forte ou tempestade, como seriam realizados os alertas de enchentes e áreas de riscos?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmação"
+                texto: "Estações de monitoramento equipadas com painéis solares e baterias continuam operando mesmo durante apagões.",
+                afirmacao: "Você acredita que mesmo durante apagões causados por chuvas fortes ou tempestades, os alertas de enchentes e riscos continuam sendo emitidos, pois as estações de monitoramento equipadas com painéis solares e baterias mantêm seu funcionamento de forma autônoma e ininterrupta."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                texto: "Em áreas críticas, equipes da Defesa Civil ou voluntários treinados podem fazer monitoramento visual do nível dos rios e emitir alertas manuais (ex: sirenes manuais, alto-falantes portáteis, megafones).",
+                afirmacao: "Você acredita que no caso de interrupção de energia durante chuvas fortes, os alertas de enchentes e áreas de risco ainda podem ser realizados manualmente, por meio da atuação de equipes da Defesa Civil ou voluntários treinados, que utilizam recursos como sirenes manuais, alto-falantes portáteis e megafones para avisar a população."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Como a ausência de infraestrutura resiliente e planejamento urbano adequado agrava os impactos das enchentes em áreas urbanas, especialmente nas periferias, colocando em risco a segurança, a saúde pública e o desenvolvimento sustentável das cidades brasileiras?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                texto:  " Investimento em infraestrutura verde e sistemas de drenagem urbana sustentável (SDUS): As prefeituras, com apoio de governos estaduais e federais, devem investir em tecnologias de infraestrutura verde, como jardins de chuva, pavimentos permeáveis e corredores ecológicos. Essas medidas aumentam a absorção da água da chuva e reduzem o escoamento superficial, diminuindo alagamentos, especialmente em áreas periféricas.",
+                afirmacao: "A adoção de infraestrutura verde torna as cidades mais preparadas para eventos climáticos extremos, reduzindo os danos causados pelas enchentes."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: " Planejamento urbano integrado com foco na inclusão social: Implementar políticas públicas que integrem moradia digna, saneamento básico e mobilidade urbana em regiões vulneráveis. É fundamental evitar a ocupação irregular de áreas de risco e promover reassentamentos seguros com participação comunitária, garantindo a sustentabilidade urbana.",
+                afirmacao: "O planejamento urbano inclusivo é essencial para prevenir tragédias em áreas de risco e promover justiça social nas cidades brasileiras."
             }
         ]
     },
