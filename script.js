@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Em uma situação em que está chovendo um grande volume a falta de áreas para drenagem pode atrapalha",
+        enunciado: "Em uma situação em que está chovendo um grande volume, a falta de áreas para drenagem pode atrapalhar significativamente o escoamento da água, causando alagamentos.",
         alternativas: [
             {
                 texto: "Desimpermeabilizar áreas urbanas, substituindo concreto por materiais permeáveis em calçadas e estacionamentos.",
@@ -58,15 +58,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Com o aumento das temperaturas globais e o avanço do desmatamento, diversas regiões têm enfrentado secas prolongadas. Quais podem ser os impactos diretos desse fenômeno no meio ambiente e na sociedade? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                texto: "As secas prolongadas reduzem drasticamente o volume dos rios, afetando o abastecimento de água nas cidades.",
+                afirmacao: "Isso compromete a qualidade de vida da população e aumenta os riscos de doenças causadas pela falta de saneamento adequado."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                texto: "A escassez de chuvas afeta diretamente a agricultura, resultando em queda na produção de alimentos.",
+                afirmacao: "Isso contribui para o aumento dos preços e para a insegurança alimentar, especialmente entre as populações mais vulneráveis."
             }
         ]
     },
